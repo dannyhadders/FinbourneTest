@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinbourneCache", "Test\FinbourneCache.csproj", "{10871100-9DFC-4111-9C45-3DD255FB41CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinbourneCache.Tests", "FinbourneCache.Tests\FinbourneCache.Tests.csproj", "{69D61455-65DA-462F-8ACE-C1A836965825}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10871100-9DFC-4111-9C45-3DD255FB41CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10871100-9DFC-4111-9C45-3DD255FB41CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10871100-9DFC-4111-9C45-3DD255FB41CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10871100-9DFC-4111-9C45-3DD255FB41CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69D61455-65DA-462F-8ACE-C1A836965825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69D61455-65DA-462F-8ACE-C1A836965825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69D61455-65DA-462F-8ACE-C1A836965825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69D61455-65DA-462F-8ACE-C1A836965825}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5B7CE72-CBCF-44E7-B087-CDA78F972591}
+	EndGlobalSection
+EndGlobal
